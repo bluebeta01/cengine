@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.23)
+add_subdirectory(lib/glfw)
+
+project(game)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+file(GLOB_RECURSE sources src/*.h src/*.cpp src/*.c)
+add_executable(game ${sources})
+target_link_libraries(game glfw)
+include_directories(lib/glfw/include/glfw)
+include_directories(lib/glad)
+include_directories(lib/glm)
+include_directories(src)

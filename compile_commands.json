@@ -1,0 +1,170 @@
+[
+{
+  "directory": "C:/code/cengine/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\code\\cengine\\lib\\glfw\\include\\glfw -IC:\\code\\cengine\\lib\\glad -IC:\\code\\cengine\\lib\\glm -IC:\\code\\cengine\\src -IC:\\code\\cengine\\lib\\glfw\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\game.dir\\src\\camera.cpp.obj /FdCMakeFiles\\game.dir\\ /FS -c C:\\code\\cengine\\src\\camera.cpp",
+  "file": "C:/code/cengine/src/camera.cpp",
+  "output": "CMakeFiles/game.dir/src/camera.cpp.obj"
+},
+{
+  "directory": "C:/code/cengine/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\code\\cengine\\lib\\glfw\\include\\glfw -IC:\\code\\cengine\\lib\\glad -IC:\\code\\cengine\\lib\\glm -IC:\\code\\cengine\\src -IC:\\code\\cengine\\lib\\glfw\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\game.dir\\src\\collada.cpp.obj /FdCMakeFiles\\game.dir\\ /FS -c C:\\code\\cengine\\src\\collada.cpp",
+  "file": "C:/code/cengine/src/collada.cpp",
+  "output": "CMakeFiles/game.dir/src/collada.cpp.obj"
+},
+{
+  "directory": "C:/code/cengine/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\code\\cengine\\lib\\glfw\\include\\glfw -IC:\\code\\cengine\\lib\\glad -IC:\\code\\cengine\\lib\\glm -IC:\\code\\cengine\\src -IC:\\code\\cengine\\lib\\glfw\\include /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd /FoCMakeFiles\\game.dir\\src\\gl.c.obj /FdCMakeFiles\\game.dir\\ /FS -c C:\\code\\cengine\\src\\gl.c",
+  "file": "C:/code/cengine/src/gl.c",
+  "output": "CMakeFiles/game.dir/src/gl.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\code\\cengine\\lib\\glfw\\include\\glfw -IC:\\code\\cengine\\lib\\glad -IC:\\code\\cengine\\lib\\glm -IC:\\code\\cengine\\src -IC:\\code\\cengine\\lib\\glfw\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\game.dir\\src\\main.cpp.obj /FdCMakeFiles\\game.dir\\ /FS -c C:\\code\\cengine\\src\\main.cpp",
+  "file": "C:/code/cengine/src/main.cpp",
+  "output": "CMakeFiles/game.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/code/cengine/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\code\\cengine\\lib\\glfw\\include\\glfw -IC:\\code\\cengine\\lib\\glad -IC:\\code\\cengine\\lib\\glm -IC:\\code\\cengine\\src -IC:\\code\\cengine\\lib\\glfw\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\game.dir\\src\\modelasset.cpp.obj /FdCMakeFiles\\game.dir\\ /FS -c C:\\code\\cengine\\src\\modelasset.cpp",
+  "file": "C:/code/cengine/src/modelasset.cpp",
+  "output": "CMakeFiles/game.dir/src/modelasset.cpp.obj"
+},
+{
+  "directory": "C:/code/cengine/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\code\\cengine\\lib\\glfw\\include\\glfw -IC:\\code\\cengine\\lib\\glad -IC:\\code\\cengine\\lib\\glm -IC:\\code\\cengine\\src -IC:\\code\\cengine\\lib\\glfw\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\game.dir\\src\\rendercontext.cpp.obj /FdCMakeFiles\\game.dir\\ /FS -c C:\\code\\cengine\\src\\rendercontext.cpp",
+  "file": "C:/code/cengine/src/rendercontext.cpp",
+  "output": "CMakeFiles/game.dir/src/rendercontext.cpp.obj"
+},
+{
+  "directory": "C:/code/cengine/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\code\\cengine\\lib\\glfw\\include\\glfw -IC:\\code\\cengine\\lib\\glad -IC:\\code\\cengine\\lib\\glm -IC:\\code\\cengine\\src -IC:\\code\\cengine\\lib\\glfw\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\game.dir\\src\\shader.cpp.obj /FdCMakeFiles\\game.dir\\ /FS -c C:\\code\\cengine\\src\\shader.cpp",
+  "file": "C:/code/cengine/src/shader.cpp",
+  "output": "CMakeFiles/game.dir/src/shader.cpp.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\context.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\context.c",
+  "file": "C:/code/cengine/lib/glfw/src/context.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\init.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\init.c",
+  "file": "C:/code/cengine/lib/glfw/src/init.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\input.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\input.c",
+  "file": "C:/code/cengine/lib/glfw/src/input.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\monitor.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\monitor.c",
+  "file": "C:/code/cengine/lib/glfw/src/monitor.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\platform.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\platform.c",
+  "file": "C:/code/cengine/lib/glfw/src/platform.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\vulkan.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\vulkan.c",
+  "file": "C:/code/cengine/lib/glfw/src/vulkan.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\window.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\window.c",
+  "file": "C:/code/cengine/lib/glfw/src/window.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\egl_context.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\egl_context.c",
+  "file": "C:/code/cengine/lib/glfw/src/egl_context.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\osmesa_context.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\osmesa_context.c",
+  "file": "C:/code/cengine/lib/glfw/src/osmesa_context.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\null_init.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\null_init.c",
+  "file": "C:/code/cengine/lib/glfw/src/null_init.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\null_monitor.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\null_monitor.c",
+  "file": "C:/code/cengine/lib/glfw/src/null_monitor.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\null_window.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\null_window.c",
+  "file": "C:/code/cengine/lib/glfw/src/null_window.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\null_joystick.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\null_joystick.c",
+  "file": "C:/code/cengine/lib/glfw/src/null_joystick.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\win32_module.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\win32_module.c",
+  "file": "C:/code/cengine/lib/glfw/src/win32_module.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\win32_time.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\win32_time.c",
+  "file": "C:/code/cengine/lib/glfw/src/win32_time.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\win32_thread.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\win32_thread.c",
+  "file": "C:/code/cengine/lib/glfw/src/win32_thread.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\win32_init.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\win32_init.c",
+  "file": "C:/code/cengine/lib/glfw/src/win32_init.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\win32_joystick.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\win32_joystick.c",
+  "file": "C:/code/cengine/lib/glfw/src/win32_joystick.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\win32_monitor.c",
+  "file": "C:/code/cengine/lib/glfw/src/win32_monitor.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\win32_window.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\win32_window.c",
+  "file": "C:/code/cengine/lib/glfw/src/win32_window.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/code/cengine/build/lib/glfw/src",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx86\\x86\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\code\\cengine\\lib\\glfw\\include -IC:\\code\\cengine\\lib\\glfw\\src -IC:\\code\\cengine\\build\\lib\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /W3 /FoCMakeFiles\\glfw.dir\\wgl_context.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\code\\cengine\\lib\\glfw\\src\\wgl_context.c",
+  "file": "C:/code/cengine/lib/glfw/src/wgl_context.c",
+  "output": "lib/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+}
+]
