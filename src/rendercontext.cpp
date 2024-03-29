@@ -38,9 +38,9 @@ void RenderContext::renderModel(ModelAsset *model, glm::mat4 *transform)
 	for(const Mesh &mesh : model->meshes)
 	{
 		glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, mesh.glid);
-		glUniformMatrix4fv(shader->viewMatrixLocation, 1, false, (float*)&viewMatrix);
-		glUniformMatrix4fv(shader->projectionMatrixLocation, 1, false, (float*)&projMatrix);
-		glUniformMatrix4fv(shader->modelMatrixLocation, 1, false, (float*)transform);
+		glUniformMatrix4fv(shader->viewMatrixLocation, 1, true, (float*)&viewMatrix);
+		glUniformMatrix4fv(shader->projectionMatrixLocation, 1, true, (float*)&projMatrix);
+		glUniformMatrix4fv(shader->modelMatrixLocation, 1, true, (float*)transform);
 		glDrawElements(GL_TRIANGLES, mesh.elementCount, GL_UNSIGNED_INT, 0);
 	}
 }

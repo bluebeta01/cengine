@@ -9,6 +9,8 @@ struct Camera
 	float aspect = 16.0f / 9.0f;
 	float speed = 1.0f;
 
+	Camera();
+
 	glm::mat4 getViewMatrix();
 	glm::mat4 getProjMatrix();
 

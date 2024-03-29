@@ -24,7 +24,7 @@ ModelAsset *ModelAsset::loadFromDisk(const char *filepath)
 	for(const TriangleGroup& tg : collada.triangleGroups)
 	{
 		std::vector<int> elements;
-		for(int i = 0; i < tg.elements.size(); i += 8)
+		for(int i = 0; i < tg.elements.size(); i += 3)
 		{
 			const VertexGroup *vertGroup = nullptr;
 			for(const VertexGroup& vg : collada.vertexGroups)
@@ -50,20 +50,20 @@ ModelAsset *ModelAsset::loadFromDisk(const char *filepath)
 					uvFloats = &arr;
 			if(!uvFloats)
 				continue;
-			if(i + tg.vertexOffset + 2 >= tg.elements.size())
+			if(i + tg.vertexOffset >= tg.elements.size())
 				continue;
 			if(i + tg.normalOffset + 2 >= tg.elements.size())
 				continue;
 			if(i + tg.texcoordOffset + 1 >= tg.elements.size())
 				continue;
-			int posXIndex = tg.elements[i + tg.vertexOffset + 0] * 3 + 0;
-			int posYIndex = tg.elements[i + tg.vertexOffset + 1] * 3 + 1;
-			int posZIndex = tg.elements[i + tg.vertexOffset + 2] * 3 + 2;
-			int nrmXIndex = tg.elements[i + tg.normalOffset + 0] * 3 + 0;
-			int nrmYIndex = tg.elements[i + tg.normalOffset + 1] * 3 + 1;
-			int nrmZIndex = tg.elements[i + tg.normalOffset + 2] * 3 + 2;
-			int uvUIndex = tg.elements[i + tg.texcoordOffset + 0] * 2 + 0;
-			int uvVIndex = tg.elements[i + tg.texcoordOffset + 1] * 2 + 1;
+			int posXIndex = tg.elements[i + tg.vertexOffset] * 3 + 0;
+			int posYIndex = tg.elements[i + tg.vertexOffset] * 3 + 1;
+			int posZIndex = tg.elements[i + tg.vertexOffset] * 3 + 2;
+			int nrmXIndex = tg.elements[i + tg.normalOffset] * 3 + 0;
+			int nrmYIndex = tg.elements[i + tg.normalOffset] * 3 + 1;
+			int nrmZIndex = tg.elements[i + tg.normalOffset] * 3 + 2;
+			int uvUIndex = tg.elements[i + tg.texcoordOffset] * 2 + 0;
+			int uvVIndex = tg.elements[i + tg.texcoordOffset] * 2 + 1;
 
 			if(posXIndex >= vertexPositions->floats.size()) continue;
 			if(posYIndex >= vertexPositions->floats.size()) continue;

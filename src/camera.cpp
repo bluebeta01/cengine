@@ -1,13 +1,19 @@
 #include "camera.hpp"
 
+Camera::Camera()
+{
+	rotation = glm::identity<glm::quat>();
+	position = glm::vec3(0, 0, 0);
+}
+
 glm::mat4 Camera::getProjMatrix()
 {
-	return glm::perspective(glm::radians(45.0f), aspect, 0.1f, 1000.0f);
+	return glm::perspectiveRH(glm::radians(45.0f), aspect, 0.1f, 1000.0f);
 }
 
 glm::mat4 Camera::getViewMatrix()
 {
-	return glm::translate(glm::identity<glm::mat4>(), position) * glm::mat4_cast(rotation);
+	return glm::mat4_cast(rotation) * glm::translate(glm::identity<glm::mat4>(), position);
 }
 
 void Camera::resizeViewport(float width, float height)

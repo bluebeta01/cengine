@@ -16,7 +16,7 @@ int main()
 	Shader *basicShader = Shader::loadBasicShader();
 	ModelAsset *model = ModelAsset::loadFromDisk("C:/game/assets/sphere.dae");
 	Camera camera;
-	camera.position.z = -10;
+	camera.position.z = -30;
 	RenderContext renderContext;
 	renderContext.initialize();
 	glm::mat4 identity = glm::identity<glm::mat4>();
